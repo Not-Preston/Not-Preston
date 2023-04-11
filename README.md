@@ -3,7 +3,7 @@
 </div>
 
 # about
-the names preston im basically the guy who only devs when he can be bothered or has ideas, but coding is pretty cool.
+my name is preston im basically the guy who only devs when he can be bothered or has ideas, but coding is pretty cool.
 
 ## stalk me
 [[discord]](discord.gg/Q6bQXM9TWZ)
